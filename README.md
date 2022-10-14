@@ -21,12 +21,6 @@
 
 <br>
 
-  <details>
-<summary><samp><b>More Info</b></samp></summary>
-
-<h2></h2><br>
-  
-<br>
 
 
 <details>
