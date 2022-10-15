@@ -11,7 +11,7 @@
       <br>
         We Are Computer Science Students, We Like To Code And Develop APIs.
       <br>
-        We Try To Build Aesthetic Projects. We Are Always Stay Organised And Love To Use Discord.
+        We Try To Build Cool And Aesthetic Projects.
       <br>
         ~ PI Programmers ~
       </b>
